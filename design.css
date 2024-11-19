@@ -1,0 +1,16 @@
+
+input[type=submit]{
+    background-color:aqua;
+    color: white;
+    width: 20%;
+}
+
+input{
+    border:hidden;
+    padding: 10px;
+    margin: 5px;
+}
+
+.formclass{
+    align-items: center;
+}
